@@ -36,7 +36,18 @@ Youtube video link of deployement explanation: https://youtu.be/HFZCnpz9ZDM
 
 
 
-We deployed our translation model through Streamlit. You can access the app via the following link:
+
+
+
+
+
+
+
+
+
+
+We deployed our translation model through Streamlit. 
+You can access the app via the following link:
 
 Streamlit App Link: [Streamlit App](https://sad-results-wish.loca.lt/)
 
