@@ -22,10 +22,17 @@ Application Deployment
 We deployed our translation model through Streamlit. You can access the app via the following link:
 
 Streamlit App Link: Streamlit App
+
+
 To Run the App
-Download the Streamlit app source file: app.py
-Download the Colab notebook that includes the model training process.
-Use the provided run code with the specified paths for the applications.
+
+Download the Streamlit app source file called: translation.py
+Download the Colab notebook that includes the model fun process called finaltshiluba grouplydia.ipng
+Use the provided run code with the specified paths for the applications called streamlitrun.
+
+
+
+
 Contributing
 If you would like to contribute to this project, please submit a pull request or open an issue.
 
