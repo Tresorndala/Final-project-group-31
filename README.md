@@ -25,8 +25,14 @@ The model and tokenizer are saved to the following paths:
 
 Model: /content/drive/My Drive/New_best_model
 Tokenizer: /content/drive/My Drive/New_best_tokenizer
+
+
 Application Deployment
 
+
+
+
+Youtube video link of deployement explanation: https://youtu.be/HFZCnpz9ZDM
 
 
 
