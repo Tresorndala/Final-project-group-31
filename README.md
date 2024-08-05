@@ -1,5 +1,5 @@
 Seq2Seq Translation Model
-This project demonstrates training a sequence-to-sequence (Seq2Seq) model for translation from Tshiluba to English using the Helsinki-NLP/opus-mt-mul-en model available in the MarianMT library on Hugging Face. The pretrained model is fine-tuned using the best hyperparameters obtained through Optuna and is evaluated using the BLEU score. The final model is deployed on Streamlit.
+This project demonstrates training a sequence-to-sequence (Seq2Seq) model for translation from Tshiluba to English using the Helsinki-NLP/opus-mt-mul-en model available in the MarianMT library on Hugging Face. The pretrained model is fine-tuned using the best hyperparameters obtained through Optuna and is evaluated using the BLEU score. The final model is deployed on Streamlit.we used the data from the bible to funetune the model
 
 Overview
 Model: Helsinki-NLP/opus-mt-mul-en
