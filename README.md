@@ -5,10 +5,17 @@ Overview
 Model: Helsinki-NLP/opus-mt-mul-en
 Task: Translation from Tshiluba to English
 Optimization: Hyperparameters are tuned using Optuna.
+
+
 Evaluation: Model performance is evaluated using the BLEU score.
+
+
 Deployment: The best model is deployed on Streamlit.
+
+
 Hyperparameter Optimization
 The best hyperparameters are printed to the console after optimization.
+
 
 Evaluation
 The model's performance is evaluated using BLEU score, which measures the quality of the translations.
@@ -19,9 +26,13 @@ The model and tokenizer are saved to the following paths:
 Model: /content/drive/My Drive/New_best_model
 Tokenizer: /content/drive/My Drive/New_best_tokenizer
 Application Deployment
+
+
+
+
 We deployed our translation model through Streamlit. You can access the app via the following link:
 
-Streamlit App Link: Streamlit App
+Streamlit App Link: [Streamlit App](https://sad-results-wish.loca.lt/)
 
 
 To Run the App
