@@ -55,7 +55,7 @@ Streamlit App Link: [Streamlit App](https://sad-results-wish.loca.lt/)
 To Run the App
 
 Download the Streamlit app source file called: translation.py
-Download the Colab notebook that includes the model fun process called finaltshiluba grouplydia.ipng
+Download the Colab notebook that includes the model fun process called Tshiluba_English_Model_Translator_colabcode.ipynb
 Use the provided run code with the specified paths for the applications called streamlitrun.
 
 
